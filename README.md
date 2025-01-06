@@ -6,7 +6,7 @@
   <a href="https://github.com/QUEEN-TANYA-MD
 "><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=👑 QUEEN-TANYA-MD
 -+v1.0.0+MultiDevice;Developed+by+👑 QUEEN-TANYA-MD
-~Xsid;Give+star+and+forks+this+Repo+🌟" alt="EthixReadme"></a>
+~Xsid;Give+star+and+forks+this+Repo+🌟" alt="👑 QUEEN-TANYAReadme"></a>
 </p>
 
 ## 🚀 Getting Started
