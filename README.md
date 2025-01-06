@@ -3,7 +3,7 @@
 # 👑 QUEEN-TANYA-MD
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&center=true&vCenter=true&width=400&height=50&lines=Q...;U...,E...;E...E...;N...;T...;TA...;TAN...;TANY...;TANYA+👑">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&center=true&vCenter=true&width=400&height=50&lines=Q...;U...,E...;E...;E...;N...;T...;TA...;TAN...;TANY...;TANYA+👑">
 </p>
 
 <p align="center">
