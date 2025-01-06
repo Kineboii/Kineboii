@@ -1,7 +1,7 @@
 -
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&center=true&vCenter=true&width=400&height=50&lines=T...;TA...;TAN...;TANY...;TANYA+👑">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&center=true&vCenter=true&width=400&height=50&lines=T...;TA...;TAN...;TANY...; 👑QUEEN TANYA">
 </p>
 
 <p align="center">
