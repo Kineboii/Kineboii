@@ -1,6 +1,8 @@
 -
 
-# 👑 QUEEN-TANYA-MD
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&center=true&vCenter=true&width=400&height=50&lines=T...;TA...;TAN...;TANY...;TANYA+👑">
+</p>
 
 <p align="center">
   <a href="https://github.com/QUEEN-TANYA-MD
