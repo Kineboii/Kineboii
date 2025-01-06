@@ -1,9 +1,14 @@
 -
 
+# 👑 QUEEN-TANYA-MD
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&center=true&vCenter=true&width=400&height=50&lines=T...;TA...;TAN...;TANY...; 👑QUEEN TANYA">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&center=true&vCenter=true&width=400&height=50&lines=T...;TA...;TAN...;TANY...;TANYA+👑">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&center=true&vCenter=true&width=500&height=50&lines=👑+QUEEN-TANYA-MD;A+Powerful+Multi-Device+WhatsApp+Bot;Developed+by+QUEEN-TANYA+👑">
+</p>
 <p align="center">
   <a href="https://github.com/QUEEN-TANYA-MD
 "><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=👑 QUEEN-TANYA-MD
