@@ -1,19 +1,12 @@
--
+---
 
 # 👑 QUEEN-TANYA-MD
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&center=true&vCenter=true&width=400&height=50&lines=Q...;U...;E...;E...;N...;T...;TA...;TAN...;TANY...;TANYA+👑">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&center=true&vCenter=true&width=500&height=50&lines=👑+QUEEN-TANYA-MD;A+Powerful+Multi-Device+WhatsApp+Bot;Developed+by+ICONIC-TECH+☠️">
-</p>
-<p align="center">
   <a href="https://github.com/QUEEN-TANYA-MD
 "><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=👑 QUEEN-TANYA-MD
 -+v1.0.0+MultiDevice;Developed+by+👑 QUEEN-TANYA-MD
-~Xsid;Give+star+and+forks+this+Repo+🌟" alt="👑 QUEEN-TANYAReadme"></a>
+~Xsid;Give+star+and+forks+this+Repo+🌟" alt="EthixReadme"></a>
 </p>
 
 ## 🚀 Getting Started
